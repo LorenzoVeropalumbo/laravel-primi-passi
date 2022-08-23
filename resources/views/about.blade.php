@@ -9,6 +9,6 @@
 <body>
   <a href="{{ route('homepage') }}"> <= back to homepage</a>
   <h1>About me:</h1>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo reprehenderit ducimus, dicta ab numquam maiores vel voluptatum consequuntur quae delectus nam quas enim quibusdam. Ex illum incidunt voluptatibus error magnam?</p>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo reprehenderit ducimus, dicta ab numquam maiores vel voluptatum consequuntur quae delectus nam quas enim quibusdam. Ex illum incidunt voluptatibus error magnam? </p>
 </body>
 </html>
