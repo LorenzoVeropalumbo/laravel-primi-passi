@@ -69,7 +69,7 @@
     <div class="nav-align">
       @if(count($NavBarlinks) > 0)
         @foreach($NavBarlinks as $NavBarlink)
-        <a href="{{ $NavBarlink['link'] }}">{{ $NavBarlink['name'] }}</a>
+        <a href="{{  route($NavBarlink['link']) }}">{{ $NavBarlink['name'] }}</a>
         @endforeach
       @else
           <div>Non liks</div>        
